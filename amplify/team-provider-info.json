@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ellietodoitproject-dev-231502-authRole",
+      "UnauthRoleArn": "arn:aws:iam::362757268561:role/amplify-ellietodoitproject-dev-231502-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::362757268561:role/amplify-ellietodoitproject-dev-231502-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ellietodoitproject-dev-231502-deployment",
+      "UnauthRoleName": "amplify-ellietodoitproject-dev-231502-unauthRole",
+      "StackName": "amplify-ellietodoitproject-dev-231502",
+      "StackId": "arn:aws:cloudformation:us-east-1:362757268561:stack/amplify-ellietodoitproject-dev-231502/c3420680-2b7b-11ee-9058-125bd53fa243",
+      "AmplifyAppId": "d27cs7pqdz3yo0"
+    },
+    "categories": {
+      "auth": {
+        "ellietodoitprojectad52bb33": {}
+      },
+      "api": {
+        "ellieTodoitProject": {}
+      }
+    }
+  }
+}
