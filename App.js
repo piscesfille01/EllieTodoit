@@ -61,7 +61,6 @@ export default function App() {
           <Stack.Screen name="Dashboard">
             {(props) => <Dashboard {...props} user={user} setUser={setUser} />}
           </Stack.Screen>
-          {/* <Stack.Screen name="Settings" component={Settings} /> */}
         </>
 
           
