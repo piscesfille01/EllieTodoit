@@ -1,8 +1,7 @@
 # Todoit!
 
-Project Name
 
-[Project Name]
+**[Project Name]**
 📝 Project Description
 
 [Provide a brief description of your project. What does it do? What problem does it solve?]
